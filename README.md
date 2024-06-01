@@ -1,8 +1,10 @@
-# how_python
+# howto_python
 Старт на Python
 
+## Python
 Для работы с Python нужно установить собственно [саму программу](https://www.python.org/downloads/), которая будет исполнять код. Качаем крайнюю релизную версию ("Stable Releases")
 
+## IDE
 Для удобного редактирования кода нужен редактор кода. Рекомендуемый редактор кода - [vscode](https://code.visualstudio.com/Download). Для работы в python в vscode нужны плагины:
  - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - базовая поддержка языка python;
  - [Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy) - отладка кода;
