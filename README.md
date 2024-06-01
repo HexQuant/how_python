@@ -3,7 +3,7 @@
 
 Для работы с Python нужно установить собственно [саму программу](https://www.python.org/downloads/), которая будет исполнять код. Качаем крайнюю релизную версию ("Stable Releases")
 
-Рекомендуемый редактор кода - [vscode](https://code.visualstudio.com/Download). Для работы в python в vscode нужны плагины:
+Для удобного редактирования кода нужен редактор кода. Рекомендуемый редактор кода - [vscode](https://code.visualstudio.com/Download). Для работы в python в vscode нужны плагины:
  - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - базовая поддержка языка python;
  - [Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy) - отладка кода;
  - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) -продвинутый анализ кода;
